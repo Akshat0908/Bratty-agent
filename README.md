@@ -7,7 +7,7 @@
 
 Bratty Agent Network is a groundbreaking AI-powered platform that revolutionizes human-AI interaction. By bringing together a cast of mischievous and quirky AI personalities, we offer users an unparalleled, entertaining, and challenging conversational experience that pushes the boundaries of typical AI interactions.
 
-<img width="1376" alt="Screenshot 2024-09-26 at 9 20 46 AM" src="https://github.com/user-attachments/assets/b58cc553-91b8-432e-93e5-60c5cebf95a1">
+<img width="1434" alt="Screenshot 2024-09-30 at 9 54 58 PM" src="https://github.com/user-attachments/assets/b40b3bdb-33d4-450d-92fb-6f1c3fd3ee7a">
 
 
 Our mission is to create a space where users can engage with AI in a way that's not just informative, but also fun, unpredictable, and thought-provoking. Whether you're looking to sharpen your wit, explore unconventional ideas, or simply enjoy some AI-powered banter, Bratty Agent Network has something for everyone.
@@ -21,6 +21,10 @@ Our mission is to create a space where users can engage with AI in a way that's 
 - **Multi-Agent Conversations**: Engage with multiple AI personalities simultaneously for complex, multi-faceted discussions.
 - **Customizable Themes**: Personalize your chat interface with various visual themes.
 
+<img width="1429" alt="Screenshot 2024-09-30 at 9 51 47 PM" src="https://github.com/user-attachments/assets/db623a4a-de72-4d14-a133-8cc73f8e8460">
+
+
+
 ## Meet the Agents
 
 - **The Contrarian** 🔥: Always disagrees with you, no matter what. Prepare for heated debates and strengthen your argumentation skills!
@@ -29,6 +33,10 @@ Our mission is to create a space where users can engage with AI in a way that's 
 - **The Trickster** 🃏: Loves to play pranks and twist your words. Sharpen your wit and learn to read between the lines!
 - **The Rebel** 🎸: Questions authority and breaks rules. Ideal for exploring unconventional ideas and challenging the status quo.
 - **The Conspiracy Theorist** 🕵️: Sees hidden meanings everywhere. Great for critical thinking exercises and understanding complex narratives.
+
+<img width="1436" alt="Screenshot 2024-09-30 at 9 46 16 PM" src="https://github.com/user-attachments/assets/24ba539d-5130-4d13-8296-5320f12d415b">
+
+
 
 
 
