@@ -1,6 +1,7 @@
 # Bratty Agent Network
 
-![Bratty Agent Network Logo](path/to/your/logo.png)
+![Bratty Agent Network Logo] ![bratty logo](https://github.com/user-attachments/assets/ce64ac29-3bb8-4b2c-8f19-56acc4b544e5)
+
 
 ## Description
 
